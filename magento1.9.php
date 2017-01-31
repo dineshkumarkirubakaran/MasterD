@@ -87,8 +87,6 @@ cms->page->create blog page->content->
 
 
 
-
-
 search over all file
 
 http://localhost/multivendor/searchIt.php
@@ -101,7 +99,7 @@ step1: admin page-> catalog->attributes-> manage attributes-> add new attributes
 step2: admin page-> catalog->attributes-> manage attribute sets->default-> unassigned attributes to drop particular group.
 
 
-
+31.1.2017
 
 
 
